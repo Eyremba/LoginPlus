@@ -1,0 +1,20 @@
+name: LoginPlus
+version: 2.3
+author: Marco606598
+
+main: gg.web.mck.LoginPlus.main.main
+commands:
+     login:
+          description: Mit /login <pw> Logt man sich ein!
+          usage:
+          permission: Login+.Login
+     register:
+          description: Mit /register <pw> <pw> registrirt man sich!
+          usage: /register <pw> <pw>
+          permission: Login+.register
+     ChangePassword:
+          usage: /changepassword <old pw> <new pw>
+          permission: Login+.changepassword
+     loginplus:
+          usage:
+          permission: Login+.LoginPlus
