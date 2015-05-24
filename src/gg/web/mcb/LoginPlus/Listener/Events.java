@@ -1,6 +1,6 @@
-package gg.web.mck.LoginPlus.Listener;
+package gg.web.mcb.LoginPlus.Listener;
 
-import gg.web.mck.LoginPlus.main.main;
+import gg.web.mcb.LoginPlus.main.main;
 import java.util.UUID;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

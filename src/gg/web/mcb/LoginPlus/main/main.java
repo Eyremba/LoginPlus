@@ -1,10 +1,10 @@
-package gg.web.mck.LoginPlus.main;
+package gg.web.mcb.LoginPlus.main;
 
-import gg.web.mck.LoginPlus.Commands.ChangePassword;
-import gg.web.mck.LoginPlus.Commands.LoginC;
-import gg.web.mck.LoginPlus.Commands.LoginPlusCommand;
-import gg.web.mck.LoginPlus.Commands.Register;
-import gg.web.mck.LoginPlus.Listener.Events;
+import gg.web.mcb.LoginPlus.Commands.ChangePassword;
+import gg.web.mcb.LoginPlus.Commands.LoginC;
+import gg.web.mcb.LoginPlus.Commands.LoginPlusCommand;
+import gg.web.mcb.LoginPlus.Commands.Register;
+import gg.web.mcb.LoginPlus.Listener.Events;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;

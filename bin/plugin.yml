@@ -1,8 +1,8 @@
 name: LoginPlus
-version: 2.3
+version: 2.4
 author: Marco606598
 
-main: gg.web.mck.LoginPlus.main.main
+main: gg.web.mcb.LoginPlus.main.main
 commands:
      login:
           description: Mit /login <pw> Logt man sich ein!

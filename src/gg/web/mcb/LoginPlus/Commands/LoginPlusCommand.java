@@ -1,6 +1,6 @@
-package gg.web.mck.LoginPlus.Commands;
+package gg.web.mcb.LoginPlus.Commands;
 
-import gg.web.mck.LoginPlus.main.main;
+import gg.web.mcb.LoginPlus.main.main;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.Command;
