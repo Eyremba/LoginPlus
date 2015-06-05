@@ -53,9 +53,9 @@ public class main extends JavaPlugin {
 		M.addDefault("Messages.LoginPlusCommand.SSS", "Spawn Successfully set!");
 		M.options().copyDefaults(true);
 		
-		try {
+		try{
 			M.save(Mfile);
-		} catch (IOException e) {
+		}catch (IOException e){
 			e.printStackTrace();
 		}
 	}
