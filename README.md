@@ -1,7 +1,25 @@
-#LoginPlus
+LoginPlus
+=============
+A Minecraft Bukkit plugin. It is licensed under the [MIT License]. 
 
-This is a Bukkit open-source Plugin!
+* [Homepage]
+* [Download]
+* [Source]
 
-This project is released under the MIT license, which means you are free to copy the code as much as you want for free, as long as you keep to a MIT compatible license.  If you choose to copy this code, please release your code open-source to encourage code sharing.
+## Programming Environment
+* [Eclipse]
 
-DOWNLOAD: http://dev.bukkit.org/bukkit-plugins/loginplus/
+## Inportant
+* The plugin is in [Java] 7 created.
+
+## Contributing
+Are you a talented programmer looking to contribute some code? We'd love the help!
+* Open a pull request with your changes.
+
+[Eclipse]: https://www.eclipse.org/
+[Homepage]: http://ccbluex.noip.me/
+[Java]: https://www.java.com/de/
+[Source]: https://github.com/CCBlueX/LoginPlus/
+[MIT License]: https://opensource.org/licenses/MIT
+[Download]: http://dev.bukkit.org/bukkit-plugins/loginplus/
+
