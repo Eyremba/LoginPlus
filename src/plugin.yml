@@ -1,20 +1,14 @@
 name: LoginPlus
-version: 2.4
-author: Marco606598
+version: 2.5
+authors: [CCBlueX]
 
-main: gg.web.mcb.LoginPlus.main.main
+main: tk.ccbluex.LoginPlus.LoginPlus
 commands:
      login:
-          description: Mit /login <pw> Logt man sich ein!
-          usage:
-          permission: Login+.Login
+        aliases: [l]
      register:
-          description: Mit /register <pw> <pw> registrirt man sich!
-          usage: /register <pw> <pw>
-          permission: Login+.register
-     ChangePassword:
-          usage: /changepassword <old pw> <new pw>
-          permission: Login+.changepassword
+        aliases: [r]
+     changepassword:
+        aliases: [cr]
      loginplus:
-          usage:
-          permission: Login+.LoginPlus
+        aliases: [lp]
