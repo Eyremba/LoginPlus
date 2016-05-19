@@ -17,7 +17,7 @@ Are you a talented programmer looking to contribute some code? We'd love the hel
 * Open a pull request with your changes.
 
 [Eclipse]: https://www.eclipse.org/
-[Homepage]: http://ccbluex.noip.me/
+[Homepage]: http://ccbluex.tk/
 [Java]: https://www.java.com/de/
 [Source]: https://github.com/CCBlueX/LoginPlus/
 [MIT License]: https://opensource.org/licenses/MIT
