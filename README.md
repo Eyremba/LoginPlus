@@ -1,6 +1,6 @@
 LoginPlus
 =============
-A Minecraft Bukkit plugin. It is licensed under the [MIT License]. 
+A Minecraft Bukkit plugin.
 
 * [Homepage]
 * [Download]
